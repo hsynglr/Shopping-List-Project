@@ -1,0 +1,9 @@
+.shopping-list li[item-completed] .item-name {
+  text-decoration: line-through;
+  color: #999;
+}
+
+.edit-icon,
+.delete-icon {
+  cursor: pointer;
+}
